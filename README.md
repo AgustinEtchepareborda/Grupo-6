@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="220" align="center">
-      <img src="fotos/LucianoMendez" width="200" />
+      <img src="fotos/LucianoMendez.jpeg" width="200" />
     </td>
     <td>
       <h2>Luciano Mendez</h2>
