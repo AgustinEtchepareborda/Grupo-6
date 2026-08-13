@@ -47,10 +47,10 @@
       <img src="fotos/integrante3.jpeg" width="200" />
     </td>
     <td>
-      <h2>Nombre Apellido</h2>
+      <h2>Juan Pablo Ciampoli</h2>
       <hr>
-      🎓 <br><br>
-      💻 <br><br>
+      🎓Licenciatura en Gestión de Tecnologías de la Información en UADE.<br><br>
+      💻Profundizando conocimientos en Java.<br><br>
       🔗 
     </td>
   </tr>
