@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="220" align="center" valign="middle">
-      <img src="fotos/agustin.jpeg" width="200" height="200" />
+      <img src="fotos/agustin.jpeg" width="200" height="220" />
     </td>
     <td width="560" valign="middle">
       <h2>Agustín Etchepareborda</h2>
@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="220" align="center" valign="middle">
-      <img src="fotos/LucianoMendez.jpeg" width="200" height="200" />
+      <img src="fotos/LucianoMendez.jpeg" width="200" height="220" />
     </td>
     <td width="560" valign="middle">
       <h2>Luciano Mendez</h2>
@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td width="220" align="center" valign="middle">
-      <img src="fotos/IMG_0186.jpg" width="200" height="200" />
+      <img src="fotos/IMG_0186.jpg" width="200" height="220" />
     </td>
     <td width="560" valign="middle">
       <h2>Juan Pablo Ciampoli</h2>
@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td width="220" align="center" valign="middle">
-      <img src="fotos/integrante4.jpeg" width="200" height="200" />
+      <img src="fotos/integrante4.jpeg" width="200" height="220" />
     </td>
     <td width="560" valign="middle">
       <h2>Nombre Apellido</h2>
@@ -80,7 +80,7 @@
 <table>
   <tr>
     <td width="220" align="center" valign="middle">
-      <img src="fotos/integrante5.jpeg" width="200" height="200" />
+      <img src="fotos/integrante5.jpeg" width="200" height="220" />
     </td>
     <td width="560" valign="middle">
       <h2>Nombre Apellido</h2>
@@ -98,7 +98,7 @@
 <table>
   <tr>
     <td width="220" align="center" valign="middle">
-      <img src="fotos/integrante6.jpeg" width="200" height="200" />
+      <img src="fotos/integrante6.jpeg" width="200" height="220" />
     </td>
     <td width="560" valign="middle">
       <h2>Nombre Apellido</h2>
