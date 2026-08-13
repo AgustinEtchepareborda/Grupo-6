@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td width="220" align="center">
-      <img src="[fotos/integrante3.jpeg](https://github.com/AgustinEtchepareborda/Grupo-6/blob/main/fotos/IMG_0186.jpg)" width="200" />
+      <img src="fotos/IMG_0186.jpg" width="200" />
     </td>
     <td>
       <h2>Juan Pablo Ciampoli</h2>
