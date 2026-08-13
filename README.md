@@ -31,8 +31,8 @@
     <td>
       <h2>Luciano Mendez</h2>
       <hr>
-      🎓 Tec. Desarrollo de software en UADE
-      💻 Actualmente estudiando Java
+      🎓 Tec. Desarrollo de software en UADE<br><br>
+      💻 Actualmente estudiando Java<br><br>
       🔗 <a href="https://www.linkedin.com/in/luciano-mendez-02894b3b8/">LinkedIn</a>
     </td>
   </tr>
