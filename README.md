@@ -26,14 +26,14 @@
 <table>
   <tr>
     <td width="220" align="center">
-      <img src="fotos/integrante2.jpe" width="200" />
+      <img src="fotos/LucianoMendez" width="200" />
     </td>
     <td>
       <h2>Luciano Mendez</h2>
       <hr>
-      🎓 <br>Tec. Desarrollo de software<br>
-      💻 <br>Actualmente estudiando Java<br>
-      🔗 <a href="https://www.linkedin.com/in//">LinkedIn</a>
+      🎓 Tec. Desarrollo de software en UADE
+      💻 Actualmente estudiando Java
+      🔗 <a href="https://www.linkedin.com/in/luciano-mendez-02894b3b8/">LinkedIn</a>
     </td>
   </tr>
 </table>
